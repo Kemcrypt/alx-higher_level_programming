@@ -8,4 +8,4 @@ defines a rectangle
 
 
 class Rectangle:
-	"""This class defines the rectangle"""
+ """This class defines the rectangle"""
